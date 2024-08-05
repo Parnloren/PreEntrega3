@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 Trabajo como Técnico Óptico<br>🌱 Actualmente estoy estudiando Python para poder expandir mis habilidades
-‣ En esta tercera Pre Entrega pueden interactuar con la barra de navegación entre las cuatro clases distintas en models al igual que en el footer.
-‣ En las cuatro clases encontrarán sus correspondientes forms para poder registrar información en la base de datos.
-‣ En la plantilla de inicio pueden interactuar con un buscador de comisiones.
+🔭 Trabajo como Técnico Óptico<br>🌱 Actualmente estoy estudiando Python para poder expandir mis habilidades<br>
+‣ En esta tercera Pre Entrega pueden interactuar con la barra de navegación entre las cuatro clases distintas en models al igual que en el footer.<br>
+‣ En las cuatro clases encontrarán sus correspondientes forms para poder registrar información en la base de datos.<br>
+‣ En la plantilla de inicio pueden interactuar con un buscador de comisiones.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pabloarias12) 
